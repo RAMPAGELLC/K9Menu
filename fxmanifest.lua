@@ -4,7 +4,7 @@ games {'gta5'}
 
 title 'K9Menu'
 description 'Interaction Menu'
-author 'blvck#6579'
+author 'RAMPAGE Interactive'
 version '0.1'
 
 client_scripts {
