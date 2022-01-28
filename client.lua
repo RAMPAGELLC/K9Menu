@@ -96,7 +96,7 @@ function PlayAnimation(dict, anim)
         Citizen.Wait(0)
     end
 
-    TaskPlayAnim(spawned_ped, dict, anim, 8.0, -8.0, -1, 2, 0.0, 0, 0, 0)
+    TaskPlayAnim(PlayerPedId(), dict, anim, 8.0, -8.0, -1, 2, 0.0, 0, 0, 0)
 end
 
 Citizen.CreateThread(function()
